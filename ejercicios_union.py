@@ -1,7 +1,7 @@
 # ejercicios_union.py
 """
-Ejercicios de UNIÓN de lenguajes (Rama 1).
-Incluye impresiones ordenadas para facilitar revisión.
+Ejercicios de UNIÓN de lenguajes (Rama dairo).
+Incluye impresiones de la terminal ordenadas para facilitar revisión.
 """
 
 from lenguajes import (
