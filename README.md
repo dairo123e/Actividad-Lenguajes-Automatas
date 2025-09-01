@@ -6,17 +6,18 @@
 
 ---
 
-## 📌 Descripción de la Actividad
+## Descripción de la Actividad
 Este proyecto corresponde a la actividad de *Lenguajes Finitos, cuyo objetivo es aplicar operaciones fundamentales sobre lenguajes (unión, intersección y concatenación) y practicar un flujo de trabajo colaborativo con **Git y GitHub*.
 
 
 Cada rama corresponde a un conjunto de ejercicios y un estudiante:
 - *Rama 1 (Dairo):* Dairo Enrique Contreras 
+- Implementacion de union y concatenacion , ademas del main en donde se encuentra la descripcion de los lenguajes 
 - *Rama 2 (Mono):* Stiven David Alvarez
-
+- Implemenatcion de iterseccion y redaccion del READMe
 ---
 
-## ⚙ Proceso de Trabajo
+## Proceso de Trabajo
 
 ### Organización del Grupo
 - Cada estudiante trabajó en su propia rama (Dairo, Mono).
@@ -37,12 +38,12 @@ git add .
 git commit -m "Implementación función unión y ejercicios"
 
 # Subir cambios a GitHub
-git push origin rama-estudiante1
+git push origin rama-dairo
 
 ### Instrucciones de Uso
 
 Clonar el repositorio:
-    git clone <URL-del-repositorio>
+    git clone https://github.com/dairo123e/Actividad-Lenguajes-Automatas.git
     cd Proyecto-Lenguajes-Finitos
 
 
